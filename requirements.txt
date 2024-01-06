@@ -1,0 +1,8 @@
+Django
+django-redis
+drf_yasg
+django-filter
+djangorestframework-simplejwt
+djangorestframework
+django-cors-headers
+Pillow
